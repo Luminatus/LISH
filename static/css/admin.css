@@ -1,0 +1,14 @@
+#result-table{
+    border: 3px double black;
+}
+
+.result-cell{
+    border: 1px solid black;
+}
+
+.header-cell{
+    font-weight: bold;
+    border-width: 1px 1px 2px 1px;
+    border-color: black;
+    border-style: solid;
+}
